@@ -1,2 +1,2 @@
-# NIbiru
+# Nibiru
 Nibiru Node Installation Instructions
