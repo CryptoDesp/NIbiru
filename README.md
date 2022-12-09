@@ -3,10 +3,7 @@ Nibiru Node Installation Instructions
 
 ## General information
 
-### Official documentation:
-```
-https://docs.nibiru.fi/
-```
+### [Official documentation](https://docs.nibiru.fi/)
 ### System requirements:
 2 Cpu, 
 4 Ram, 
