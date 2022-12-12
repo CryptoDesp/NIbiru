@@ -27,7 +27,7 @@ source $HOME/.bash_profile
 ```
 ### 3. Throwing addrbook:
 ```
-wget -O $HOME/.nibid/config/addrbook.json https://api.nodes.guru/nibiru_addrbook.json
+wget -O $HOME/.nibid/config/addrbook.json http://65.108.6.45:8000/nibiru/addrbook.json
 ```
 ### 4. Restart the service:
 ```
